@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+numpy
+vosk
+gTTS
+indic-transliteration
